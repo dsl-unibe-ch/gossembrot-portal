@@ -41,7 +41,7 @@
     "@ng-matero/extensions": "^17.3.7",
     "@ngxs/store": "^3.8.2",
     "@types/openseadragon": "^3.0.10",
-    "axios": "^1.7.7",
+    "axios": "^1.15.0",
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
     "d3": "^7.9.0",
